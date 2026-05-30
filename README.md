@@ -68,22 +68,7 @@
 ## $ns run
  
 # OUTPUT:
-
-
-
-
-
-## MARK ALLOCATION	TOTAL MARKS	MARKS OBTAINED
-## PERFORMANCE	20	
-## OBSERVATION	20	
-## RECORD	20	
-## OUTPUT	20	
-## VIVA	20	
-## TOTAL	100	
-
-
-
-
+<img width="1418" height="850" alt="image" src="https://github.com/user-attachments/assets/3cd33a80-7397-431b-a3ff-73e348cfc92b" />
 
 ## RESULT:
 ## Thus the Stop and Wait protocol is implemented using NS2 and the output is verified successfully.
